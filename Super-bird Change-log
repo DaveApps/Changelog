@@ -1,0 +1,65 @@
+**14/01/2019**
+3.3.0:
+- Stats page bug fix
+: Fixed Crash when there were no values for crash and score
+
+- Stats page Display tweak
+:Made the the Stats Page look Better
+
+3.2.0:
+
+- Added New Year Bonus
+
+- Fixed graphics layout
+: Made the sprite names in the menu hsow cleaner
+
+- changed the theme colors
+: Disabled te Christmas theme
+
+3.1.0:
+
+- Code Optimizations
+: All internal Reduction, no Ui effects
+
+- Reduced the App Size
+: Made the physical size of the app smaller ( this will save space on your device
+
+
+3.0.2
+
+- Minor Character tweaks
+: Turned off Color dithering
+
+3.0.1:
+
+- Color Bug Fix
+: Theme Colors Werent displaying properly
+
+3.0.0:
+
+- Added new Characters
+
+- Fixed Crash detection Bug
+
+- Added Christmas theme
+
+2.3.1: Added New score vs crash ratio
+
+2.3.0: Added a new Exp System
+
+2.2.0: Added Additional Statistics
+
+2.1.0: Added Statistics page (Total Jumps & Total Crashes)
+
+2.0.0: Added Exp (Experience points)
+
+- ability to unlock character with Exp
+
+1.5.0: Prevented the App Crash
+
+1.0.1: Added the total score
+
+1.0.0: Initial release
+
+
+   
