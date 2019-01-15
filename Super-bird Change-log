@@ -2,6 +2,8 @@
 3.3.1
 - Change Stats Page View
 : Changed the Font of the Stats view to a custom Font
+- Added New metric to Stats Page
+: Added average Score to the stats page
 **14/01/2019**
 3.3.0:
 - Stats page bug fix
