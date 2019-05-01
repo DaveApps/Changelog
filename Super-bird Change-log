@@ -2,39 +2,40 @@
 3.5.5:
 - Added developer mode
 : This mode will unlock all items for you, but is only available to developers
+
 **1/05/2019**
 3.5.4:
 - Added device support
 : This update added support for the new MARQ series and a vareity of different VA3 varients
+
 **24/01/2019**
 3.5.0
 -Added new Power
 : This adds the ability to be given one life so one of your crashes wont restart your score (Costs 20 Exp)
+
 **21/01/2019**
 3.4.0
 - Added new character
 : Added a top score 20 bonus
+
 **15/01/2019**
 3.3.1
 - Change Stats Page View
 : Changed the Font of the Stats view to a custom Font
 - Added New metric to Stats Page
 : Added average Score to the stats page
+
 **14/01/2019**
 3.3.0:
 - Stats page bug fix
 : Fixed Crash when there were no values for crash and score
-
 - Stats page Display tweak
 :Made the the Stats Page look Better
 
 3.2.0:
-
 - Added New Year Bonus
-
 - Fixed graphics layout
 : Made the sprite names in the menu hsow cleaner
-
 - changed the theme colors
 : Disabled te Christmas theme
 
@@ -42,13 +43,10 @@
 
 - Code Optimizations
 : All internal Reduction, no Ui effects
-
 - Reduced the App Size
 : Made the physical size of the app smaller ( this will save space on your device
 
-
 3.0.2
-
 - Minor Character tweaks
 : Turned off Color dithering
 
@@ -60,9 +58,7 @@
 3.0.0:
 
 - Added new Characters
-
 - Fixed Crash detection Bug
-
 - Added Christmas theme
 
 2.3.1: Added New score vs crash ratio
