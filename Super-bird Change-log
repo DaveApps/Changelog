@@ -1,3 +1,10 @@
+**2/05/2019**
+3.6.0:
+- Changes Sats display
+: Made Stats display in a menu type manner
+- Added more advanced stats
+: added the ability to see how many times you have used each character
+
 **1/05/2019**
 3.5.5:
 - Added developer mode
